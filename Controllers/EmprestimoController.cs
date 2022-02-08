@@ -23,7 +23,7 @@ namespace Biblioteca.Controllers
         public IActionResult Cadastro(CadEmprestimoViewModel viewModel)
         {
 
-            if (!string.IsNullOrEmpty(viewModel.NomeUsuario) && !string.IsNullOrEmpty(viewModel.Telefone) && viewModel.Ano != 0)
+            if (!string.IsNullOrEmpty(viewModel.Emprestimo.NomeUsuario) && !string.IsNullOrEmpty(viewModel.Emprestimo.Telefone) &&  viewModel.Emprestimo.LivroId != 0)
             {
                 EmprestimoService emprestimoService = new EmprestimoService();
 
@@ -36,6 +36,7 @@ namespace Biblioteca.Controllers
                     emprestimoService.Atualizar(viewModel.Emprestimo);
                 }
                 return RedirectToAction("Listagem");
+
             } else
             {
                 ViewData["mensagem"] = "Preencha todos os campos";
