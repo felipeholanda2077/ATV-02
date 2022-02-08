@@ -1,0 +1,277 @@
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\felip\Downloads\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\felip\Downloads\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Sistema-de-Biblioteca-master\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaDeUsuarios.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\editarUsuario.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuarios.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\editarUsuario.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaDeUsuarios.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuarios.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07-master\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\editarUsuario.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaDeUsuarios.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuarios.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\ATV-02-UC07\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
