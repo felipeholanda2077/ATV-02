@@ -7,13 +7,6 @@
 
     string Classe = "";
 
-    int FiltroPorPag = Int32.Parse(ViewData["livrosPorPagina"].ToString());
-
-    int PaginaAtual = Int32.Parse(ViewData["PaginaAtual"].ToString());
-
-    int NumLivrosPorPag = (Model.Count < FiltroPorPag ? Model.Count : FiltroPorPag);
-
-    int NumTotalDePag = Model.Count / NumLivrosPorPag + (Model.Count % NumLivrosPorPag == 0 ? 0 : 1);
 }
 
 <div class="row">
